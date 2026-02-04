@@ -1,0 +1,26 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Data files (Large CSVs and Drive mounts)
+*.csv
+/content/drive/
+
+# Plots and saved images
+*.png
+*.jpg
+*.pdf
+
+# macOS local files
+.DS_Store
