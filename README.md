@@ -42,6 +42,7 @@ mini-project-3/
 │ └── analysis.ipynb
 ├── README.md
 └── requirements.txt
+└── .gitignore
 
 ```
 
