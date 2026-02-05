@@ -38,7 +38,7 @@ By integrating **K-Means clustering**, **PCA**, **t-SNE**, and **Isolation Fores
 mini-project-3/
 ├── data/
 │   └── Mall_Customers.csv
-├── notebooks/
+├── notebook/
 │   └── analysis.ipynb
 ├── .gitignore
 ├── README.md
