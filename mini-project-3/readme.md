@@ -46,6 +46,10 @@ mini-project-3/
 
 ```
 
+### Install Dependencies
+```bash
+pip install -r requirements.txt
+```
 
 ---
 
@@ -137,6 +141,13 @@ The analysis identified five meaningful customer segments, including:
 - **Brendan Zapf** — Analysis & Final Report
 
 ---
+
+
+## 🚀 How to Run the Project
+Clone the repository:
+   ```bash
+   git clone https://github.com/Tanishq200307/mini-project-2
+   ```
 
 ## Notes
 
